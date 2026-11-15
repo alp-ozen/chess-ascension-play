@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794764978|2873310';
+const CACHE_VERSION = '1794780000|5206886';
 /** @type {string} */
 const CACHE_PREFIX = 'Chess: Ascension-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
